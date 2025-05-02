@@ -1,6 +1,6 @@
 # Aztec Sequencer Node Kurulum Rehberi (Türkçe)
 
-Bu rehber, Aztec Network Testnet üzerinde Sequencer Node kurulumunu baştan sona adım adım anlatır. Özellikle teknik bilgisi olmayan kullanıcılar için sadeleştirilmiş ve doğrulanmış komutlarla hazırlanmıştır.
+Bu rehber, Aztec Network Testnet üzerinde Sequencer Node kurulumunu baştan sona adım adım anlatır. 
 
 ## Sistem Gereksinimleri
 
@@ -140,10 +140,4 @@ aztec add-l1-validator \
   --l1-chain-id 11155111
 ```
 
-## Lisans
 
-MIT
-
-## Hazırlayan
-
-@senin-github-kullanıcın
